@@ -1,8 +1,6 @@
-# Members
-All members of the Siete-Softwares Team
 
 # Siete Softwares
-## MigoBucks Dev Team
+### MigoBucks Dev Team
 <br/>
 
 ## Members
