@@ -6,7 +6,7 @@
 ## Members
 | GitHub UserName | Full Name | WhatsApp Number| Role |
 |---|---|---|---|
-| mithuntc-dev | Mithun TC | 7090070200 | --?-- |
-|AbhilashTUofficial| Abhilash TU | 8921850229| Developer, Graphics Designer |
+| mithuntc-dev | Mithun TC | 7090070200 | Founder & CEO |
+|AbhilashTUofficial| Abhilash TU | 8921850229| Developer |
 |---|---|---|---
 
